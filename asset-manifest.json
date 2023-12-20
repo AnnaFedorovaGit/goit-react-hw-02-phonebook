@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/AnnaFedorovaGit/goit-react-hw-02-feedback.git/static/css/main.a9c02395.css",
-    "main.js": "/AnnaFedorovaGit/goit-react-hw-02-feedback.git/static/js/main.ea7aa5ea.js",
+    "main.css": "/AnnaFedorovaGit/goit-react-hw-02-feedback.git/static/css/main.44597e0c.css",
+    "main.js": "/AnnaFedorovaGit/goit-react-hw-02-feedback.git/static/js/main.aa36b323.js",
     "index.html": "/AnnaFedorovaGit/goit-react-hw-02-feedback.git/index.html",
-    "main.a9c02395.css.map": "/AnnaFedorovaGit/goit-react-hw-02-feedback.git/static/css/main.a9c02395.css.map",
-    "main.ea7aa5ea.js.map": "/AnnaFedorovaGit/goit-react-hw-02-feedback.git/static/js/main.ea7aa5ea.js.map"
+    "main.44597e0c.css.map": "/AnnaFedorovaGit/goit-react-hw-02-feedback.git/static/css/main.44597e0c.css.map",
+    "main.aa36b323.js.map": "/AnnaFedorovaGit/goit-react-hw-02-feedback.git/static/js/main.aa36b323.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9c02395.css",
-    "static/js/main.ea7aa5ea.js"
+    "static/css/main.44597e0c.css",
+    "static/js/main.aa36b323.js"
   ]
 }
