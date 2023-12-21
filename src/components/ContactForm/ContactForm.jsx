@@ -9,8 +9,11 @@ class ContactForm extends Component {
 	}
 
 	handleSubmit = (e) => {
-        e.preventDefault()
-		this.props.createContact(e.target[0].value, e.target[1].value)
+		e.preventDefault();
+		this.props.createContact(e.target[0].value, e.target[1].value);
+
+		e.target[0].value = '';
+		e.target[1].value = '';	
     }
     
 	render() {
